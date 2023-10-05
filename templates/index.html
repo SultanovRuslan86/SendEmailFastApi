@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block title %}Testing Page{% endblock %}
+
+{% block content %}
+    <div class="container py-4"><p><h3>Тестовое задание по отправке EMAIl</h3></p>
+        <form id="contactForm" action="/send_email" method="post">
+          <div class="mb-3">
+            <label class="form-label" for="emailAddress">To:</label>
+            <input class="form-control" name="emailAddress" id="emailAddress" type="email" placeholder="Email Address" />
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label" for="name">Subject</label>
+            <input class="form-control" name="subject" id="name" type="text" placeholder="subject" />
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label" for="message">Message</label>
+            <textarea class="form-control" name="message" id="message" type="text" placeholder="Message" style="height: 10rem;"></textarea>
+          </div>
+
+          <div class="d-grid">
+            <button class="btn btn-primary btn-lg" type="submit">Submit</button>
+          </div>
+        </form>
+    </div>
+{% endblock %}

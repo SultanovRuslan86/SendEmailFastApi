@@ -1,0 +1,15 @@
+2023-10-04 17:21:04,690 - email_service - INFO - Received email with address: Sulrus1986@gmail.com
+2023-10-04 17:21:04,690 - email_service - INFO - Subject: Testing_2
+2023-10-04 17:21:04,690 - email_service - INFO - Message: Test3
+2023-10-04 18:23:39,742 - email_service - INFO - Received email with address: Erlansul@gmail.com
+2023-10-04 18:23:39,743 - email_service - INFO - Subject: Testing_3
+2023-10-04 18:23:39,743 - email_service - INFO - Message: Ерлан лох!!!
+2023-10-05 10:31:12,265 - email_service - INFO - Received email with address: Sulrus1986@gmail.com
+2023-10-05 10:31:12,266 - email_service - INFO - Subject: erer
+2023-10-05 10:31:12,266 - email_service - INFO - Message: HHERT
+2023-10-05 10:36:57,393 - email_service - INFO - Received email with address: Sulrus1986@gmail.com
+2023-10-05 10:36:57,393 - email_service - INFO - Subject: erer
+2023-10-05 10:36:57,393 - email_service - INFO - Message: HHERT
+2023-10-05 10:37:12,198 - email_service - INFO - Received email with address: Sulrus1986@gmail.com
+2023-10-05 10:37:12,198 - email_service - INFO - Subject: Test4
+2023-10-05 10:37:12,198 - email_service - INFO - Message: Test4
